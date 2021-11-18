@@ -1,0 +1,807 @@
+header {
+    width: auto;
+    height: auto;
+}
+article{
+    font-family: monospace;
+}
+#header1{
+    font-family: monospace;
+}
+#main2 {
+    background-image: url(imagem/fundo1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1920px;
+    height: 1000px;
+
+}
+
+#div1 {
+    display: flex;
+    flex-flow: column;
+}
+#pc img{
+    width: 414px;
+    height: 421px;
+}
+#nt img{
+    width: 546px;
+    height: 555px;
+}
+#acs img{
+    width: 543px;
+    height: 543px;
+}
+#logo img{
+    width: 130px;
+    height: 130px;
+}
+#logo {
+    margin-top: 10px;
+    margin-left: 1%;
+}
+#menuha img{
+    width: 32xpx;
+    height: 32px;
+}
+#menuha{
+    display: none;
+}
+
+#inn {
+    color: white;
+    margin-left: 10%;
+    margin-top: 80px;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+#ctt {
+    color: white;
+    margin-left: 6%;
+    margin-top: 80px;
+    font-size: 25px;
+    font-family: monospace;
+}
+
+#eqq {
+    color: white;
+    margin-left: 6%;
+    margin-top: 80px;
+    font-family: monospace;
+    font-size: 25px;
+}
+#lupab img{
+    width: 33px;
+    height: 33px;
+}
+#lupab{
+    margin-top: 73px;
+    margin-left: 39%;
+}
+#car img{
+    width:53px;
+    height: 43px;
+}
+#car {
+    margin-top: 68px;
+    margin-left: 4%;
+
+}
+#gr{
+    display: flex;
+    flex-direction: row;
+}
+#jp{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    width: 30%;
+    text-align: center;
+    margin-top: 220px;
+    margin-left: 4%;
+
+}
+#ps{
+    margin-top: 30px;
+    width: 80%;
+}
+#bt{
+
+    margin-top: 30px;
+    margin-left: -20%;
+    width: 30%;
+    padding: 15px 0px 15px 0px;
+    font-size: 30px;
+    margin-bottom: 250px;
+}
+#prod1{
+    background-image: url(imagem/fundo2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 2020px;
+    width: 1920px;
+    }
+ #prod{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+}
+#b3{
+    display: none;
+}
+#estr5 img{
+    width: 125px;
+    height: 26px;
+}
+#ajsjf{
+    font-size: 13px;
+}
+
+#pc{
+    margin-left: 4%;
+
+}
+#nt{
+    margin-left: 10%;
+}
+#acs{
+    margin-left: 6%;
+}
+#letra1{
+    color: white;
+    font-size: 60px;
+    display: flex;
+    flex-direction: row;
+}
+#dp{
+    margin-left: 10%;
+    font-size: 20px;
+}
+#dn{
+    margin-left: 23%;
+}
+#da{
+    margin-left: -1%;
+}
+#bp{
+    font-size: 55px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 40px;
+}
+#bn{
+    font-size: 55px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 40px;
+}
+#ba{
+    font-size: 55px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 40px;
+}
+#dn{
+    width: 35%;
+}
+#cara img{
+    width: 313px;
+    height: 329px;
+}
+#b1{
+    background-image: url(imagem/controle.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 1150px;
+}
+#cev{
+    background-color: white;
+    width: 919px;
+    height: 508px;
+    border-radius: 50px;
+    margin: 300px;
+    margin-left: 10%;
+}
+#aj2{
+    display: flex;
+    flex-direction: row;
+}
+#fdb1{
+    font-size: 50px;
+    width: 364px;
+    height: 275px;
+    margin-top: 70px;
+    margin-left: 60px;
+}
+#aj3{
+    display: flex;
+    flex-direction: row;
+}
+#cara{
+    margin-left: 60px;
+    margin-top: 60px;
+}
+#in{
+    margin-left: 60px;
+    font-size: 25px;
+}
+#stars5{
+    margin-left: 200px;
+}
+#cev2{
+    background-color: white;
+    width: 919px;
+    height: 508px;
+    border-radius: 50px;
+    margin-left: 40%;
+    margin-top: -250px;
+}
+#aj6{
+    display: flex;
+    flex-direction: row;
+}
+#fdb2{
+    font-size: 50px;
+    width: 400px;
+    height: 250px;
+    margin-left: 80px;
+    margin-top: 140px;
+}
+#moça img{
+    width: 304px; height: 304px;
+}
+#moça{
+    margin-left: 70px;
+    margin-top: 80px;
+}
+#stars5 img{
+    width: 344px;
+    height: 95px;
+}
+#aj7{
+    display: flex;
+    flex-direction: row;
+}
+#stars4 img{
+    width: 391px; height: 76px;
+}
+#stars4{
+    margin-left: 60px;
+    margin-bottom: 30px;
+    width: 53%;
+
+}
+#mrj{
+    font-size: 30px;
+}
+#cev3{
+     background-color: white;
+     border-radius: 20px;
+     width: 272px;
+     height: 182px;
+}
+#casal img{
+    width: 111px;
+    height: 111px;
+}
+#divfooter{
+    background-image: url(imagem/fundo3.jpg);
+    height: 700px;
+    width: 1920px;
+}
+#search{
+    padding-left: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 1000px;
+    margin-left: 13%;
+    margin-top: 40px;
+    border-radius: 50px;
+    font-size: 35px;
+}
+#ajustesft{
+    font-size: 40px;
+    color: white;
+    margin-top: 350px;
+    margin-left: 2%;
+}
+#cttt{
+    margin-bottom: 10px;
+}
+#sb{
+    margin-bottom: 10px;
+}
+footer{
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 720px){
+
+    #div1{
+        background-color: black;
+        width: 720px;
+        height: 55px;
+    }
+    #inn{
+        margin-left: 15%;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    #ctt{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    #eqq{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    #lupab img{
+        width: 22px;
+        height: 22px;
+    }
+    #lupab{
+        margin-top: 20px;
+        margin-left: -59%;
+    }
+    #car img{
+        width: 38px;
+        height: 34px;
+    }
+    #car{
+        margin-top: 14px;
+        margin-left: 68%;
+    }
+    #main2{
+        background-image: url(imagem/fundo1.jpg);
+        width: 720px;
+        height: 436px;
+    }
+    #jp{
+        margin-top: 12px;
+        font-size: 15px;
+    }
+    #bt{
+        font-size: 15px;
+        margin-left: -20%;
+        margin-top: 10px;
+        padding: 5px 68px 5px 5px;
+    }
+    #logo img{
+        margin-top: -10px;
+        width: 55px;
+        height: 55px;
+    }
+    #prod1{
+        background-image: url(imagem/fundo2.png);
+        width: 720px;
+        height: 364px;
+    }
+    #pc img{
+        width: 191px;
+        height: 194px;
+    }
+    #nt img{
+        width: 289px;
+        height: 269px;
+    }
+    #acs img{
+        width: 243px;
+        height: 243px;
+    }
+    #pc{
+        margin-left: 1%;
+    }
+    #nt{
+        margin-left: 2%;
+    }
+    #acs{
+        margin-left: -5%;
+    }
+    #dp{
+        margin-left: 8%;
+    }
+    #dn{
+        margin-left: 21%;
+        margin-top: -35px;
+    }
+    #da{
+        margin-left: -4%;
+        margin-top: -35px;
+    }
+    #bp{
+        padding-left: 25px;
+        padding-right: 25px;
+        font-size: 20px;
+    }
+    #bn{
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 20px;
+    }
+    #ba{
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 20px;
+    }
+    #letra1{
+        margin-top: -280px;
+    }
+    #b1{
+        margin-top: -190px;
+        background-image: url(imagem/controle.jpg);
+        background-repeat: repeat-y;
+        width: 720px;
+        height: 450px;
+    }
+    #cara img{
+        height: 118px;
+        width: 112px;
+    }
+    #cara{
+        margin-top: 20px;
+        margin-left: 7%;
+    }
+    #cev{
+        border-radius: 20px;
+        margin-left: 4%;
+        width: 272px;
+        height: 182px;
+    }
+    #fdb1{
+        font-size: 17px;
+        margin-left: 6%;
+        margin-top: 21px;
+    }
+    #stars5 img{
+        width: 123px;
+        height: 33px;
+    }
+    #stars5{
+        margin-top: -155px;
+        margin-left: 4%;
+    }
+    #in{
+        font-style: oblique;
+        font-size: 13px;
+        margin-top: -146px;
+        margin-left: 8%;
+    }
+    #fdb2{
+        width: 2%;
+        margin-top: 54px;
+        margin-left: 15%;
+        font-size: 17px;
+    }
+    #cev2{
+        margin-top: -360px;
+        margin-left: 53%;
+        width: 268px;
+        height: 181px;
+        border-radius: 20px;
+    }
+    #moça{
+        margin-left: 33%;
+        margin-top: 29px;
+    }
+    #moça img{
+        width: 116px;
+        height: 118px;
+    }
+    #stars4 img{
+        width: 125px;
+        height: 26px;
+    }
+    #stars4{
+        margin-top: -160px;
+        margin-left: 6%;
+    }
+    #mrj{
+        font-size: 13px;
+        margin-top: -150px;
+        margin-left: 5%;
+    }
+    #b3{
+        display: flex;
+    }
+    #cev3{
+        margin-top: -100px;
+        margin-left: 4%;
+    }
+    #all3{
+        display: flex;
+        flex-direction: row;
+    }
+    #all4{
+        display: flex;
+        flex-direction: row;
+    }
+    #casal{
+        margin-top: 25px;
+        margin-left: 7%;
+    }
+    #ajsjf{
+        margin-left: 7%;
+        margin-top: 10px;
+    }
+    #estr5 img{
+        height: 38px;
+    }
+    #estr5{
+        margin-top: 1px;
+        margin-left: 7%;
+    }
+    #fmb{
+        font-size: 16px;
+        width: 40%;
+        margin-top: 25px;
+        margin-left: 5%;
+    }
+    footer{
+        margin-top: 420px;
+    }
+    #divfooter{
+        background-image: url(imagem/fundo3.jpg);
+        size: 100%;
+        height: 300px;
+        width: 720px;
+    }
+    #search{
+        padding-left: 60px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 300px;
+        margin-left: 10%;
+        margin-top: 40px;
+        border-radius: 50px;
+        font-size: 16px;
+    }
+    #ajustesft{
+        font-size: 16px;
+        margin-top: 110px;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width: 420px){
+    
+    #main2{
+        background-image: url(imagem/fundo1.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        width: 420px;
+        height: 247px;
+    }
+    #div1{
+        background-color: black;
+        width: 420px;
+        height: 700px;
+    }
+    #menuha{
+        display: flex;
+        margin-top: 12px;
+        margin-left: -47%;
+    }
+    #logo{
+        margin-left: 40%;
+    }
+    #inn{
+        display: none;
+    }
+    #eqq{
+        display: none;
+    }
+    #ctt{
+        margin-left: 6%;
+        font-size: 16px;
+    }
+    #car{
+        margin-left: 5%;
+    }
+    #lupab{
+        margin-left: 37%;
+    }
+    #ps{
+        margin-left: 10%;
+        font-size: 11px;
+    }
+    #bt{
+        padding-right: 50px;
+        margin-top: 3px;
+        font-size: 10px;
+        margin-left: 1%;
+    }
+    #prod1{
+    background-image: url(imagem/fundo2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 420px;
+    }
+    #pc img{
+        width: 116px;
+        height: 118px;
+    }
+    #nt img{
+        width: 163px;
+        height: 151px;
+    }
+    #acs img{
+        width: 152px;
+        height: 152px;
+    }
+    #pc{
+        margin-left: 1%;
+    }
+    #nt{
+        margin-left: -1%;
+    }
+    #acs{
+        margin-left: -6%;
+    }
+    #dp{
+        margin-left: 5%;
+        margin-top: -100px;
+    }
+    #dn{
+        margin-top: -135px;
+        margin-left: 14%;
+    }
+    #da{
+        margin-top: -135px;
+        margin-left: -4%;
+    }
+    #bp{
+        padding-right:px;
+        font-size: 16px;
+    }
+    #bn{
+        padding-left: 7px;
+        padding-right: 7px;
+        font-size: 16PX;
+    }
+    #ba{
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size: 16px;
+    }
+    #fdb1{
+        display: none;
+    }
+    #fdb2{
+        display: none;
+    }
+    #fmb{
+        display: none;
+    }
+    #cev{
+        width: 100px;
+        height: 141px;
+        margin-left: 6%;
+        margin-top: 200px;
+    }
+    #cev2{
+        width: 100px;
+        height: 141px;
+        margin-left: -275%;
+        margin-top: 200px;
+    }
+    #cev3{
+        width: 100px;
+        height: 141px;
+        margin-left: -250%;
+        margin-top: 200px;
+    }
+    #cara img{
+        width: 84px;
+        height: 84px;
+        border-radius: 5px;
+    }
+    #cara{
+        margin-top: 25px;
+    }
+    #moça img{
+        width: 84px;
+        height: 84px;
+        border-radius: 5px;
+    }
+    #moça{
+        margin-top: 25px;
+        margin-left: 8%;
+    }
+    #casal img{
+        width: 84px;
+        height: 84px;
+        border-radius: 5px;
+    }
+    #casal{
+        border-radius: 5px;
+        margin-ft: 9%;
+    }
+    #b1{
+        display: flex;
+        flex-direction: row;
+        width: 420px;
+        background-repeat: no-repeat;
+        height: 420px;
+    }
+    #ajsjf{
+        font-size: 10px;
+        margin-top: -100px;
+        margin-left: 11%;
+    }
+    #mrj{
+        font-size: 10px;
+        margin-top: -100px;
+        margin-left: -40%;
+    }
+    #in{
+        font-size: 10px;
+        margin-top: -100px;
+        margin-left: 11%;
+    }
+    #stars4 img{
+        width: 81px;
+        height: 21px;
+        margin-left: 5%;
+        margin-top: 160px;
+    }
+    #stars5 img{
+        width: 81px;
+        height: 28px;
+        margin-left: -105%;
+        margin-top: 155px;
+    }
+    #estr5 img{
+        width: 81px;
+        height: 28px;
+        margin-left: -104%;
+        margin-top: -1px;
+    }
+    article{
+        height: 420px;
+    }
+    footer{
+        margin-top: 0px;
+        width: 420px;
+        height: 200px;
+    }
+    #divfooter{
+        width: 420px;
+    }
+    #search{
+        padding-left: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 230px;
+        margin-left: 5%;
+        margin-top: 30px;
+        border-radius: 50px;
+        font-size: 10px;
+    }
+    #ajbf{
+        width: 420px;
+    }
+    #ajustesft{
+        width: 420px;
+        font-size: 10px;
+    }
+}
